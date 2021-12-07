@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about the IT world.
 - 💞️ I’m looking to collaborate with Cybersecurity professionals 💻
 - 📫 How to reach me: https://www.linkedin.com/in/tha%C3%ADsbello/
+- ✍️ I'm interested to learn about languages like: Python, Java.
 
 <!---
 ThaisBeOj/ThaisBeOj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
